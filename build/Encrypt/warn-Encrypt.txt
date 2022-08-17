@@ -27,4 +27,5 @@ missing module named resource - imported by posix (top-level), test.support (del
 missing module named org - imported by copy (optional)
 missing module named _scproxy - imported by urllib.request (conditional)
 missing module named termios - imported by tty (top-level), getpass (optional)
-missing module named cryptography - imported by C:\Users\erick\Desktop\Programas y Pruebas\ransomware\Encrypt.py (top-level)
+missing module named bcrypt - imported by cryptography.hazmat.primitives.serialization.ssh (optional)
+missing module named typing_extensions - imported by cryptography.utils (conditional)
