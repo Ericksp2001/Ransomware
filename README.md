@@ -169,10 +169,3 @@ python Decrypt.py
 - **Auditoría y defensa:** utiliza este ejemplo únicamente con fines de aprendizaje defensivo — detectar, mitigar y responder ante ransomware.  
 - **Respaldos:** asegúrate de contar con copias de seguridad antes de realizar cualquier prueba, incluso en entornos de laboratorio.
 
----
-
-## Licencia y responsabilidad
-
-- **Propósito:** educativo / demostrativo.  
-- **Responsabilidad:** el autor del repositorio no se responsabiliza por el uso indebido de los scripts.  
-- **Licencia:** incluye aquí la licencia que prefieras (p. ej. `MIT`) y añade condiciones sobre uso responsable si lo deseas.
